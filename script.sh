@@ -1,3 +1,5 @@
+ cd "/c/Users/Dawoud Tormos/Desktop/charbel git assignbment/Project"
+
 # Fetch changes in the main project
 git fetch
 
