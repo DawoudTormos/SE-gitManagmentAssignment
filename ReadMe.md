@@ -1,4 +1,3 @@
-
 # Git Management of Submodules Solution
 This repo have a script that will help you deal with submodules in your main repo. You can automate it. 
 
@@ -37,3 +36,9 @@ This solution isn't optimal maybe and isn't for you if you strictly need your co
  - You should edit the path as needed in the script.sh files. You have 3 to edit in this case.
  - Now u have to run the file in all the 3 repos to get updated to the changes of the config file in the 4th repo.
  - You can similarly automate this file to run periodically.
+
+### links to the main repo and submodules I tested with:
+
+[Main Repo](https://github.com/DawoudTormos/Project)
+[Submodule-a](https://github.com/DawoudTormos/SE-subModule-a)
+[Submodule-b](https://github.com/DawoudTormos/SE-subModule-b)
